@@ -1,0 +1,15 @@
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/bin/Debug/net6.0/PensamientoLOgico
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/bin/Debug/net6.0/PensamientoLOgico.deps.json
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/bin/Debug/net6.0/PensamientoLOgico.runtimeconfig.json
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/bin/Debug/net6.0/PensamientoLOgico.dll
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/bin/Debug/net6.0/PensamientoLOgico.pdb
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.csproj.AssemblyReference.cache
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.AssemblyInfoInputs.cache
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.AssemblyInfo.cs
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.csproj.CoreCompileInputs.cache
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.dll
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/refint/PensamientoLOgico.dll
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.pdb
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/PensamientoLOgico.genruntimeconfig.cache
+/Users/manuel/Desktop/TripleCyber/PensamientoLOgico/PensamientoLOgico/obj/Debug/net6.0/ref/PensamientoLOgico.dll

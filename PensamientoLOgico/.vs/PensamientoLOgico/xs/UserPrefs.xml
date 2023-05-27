@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{94AA9CD8-DC06-4370-AAE1-B4EFDF86186E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PensamientoLOgico/Program.cs">
+    <Files>
+      <File FileName="PensamientoLOgico/Program.cs" Line="25" Column="2" />
+      <File FileName="PensamientoLOgico/Valoresaleatorios.cs" Line="6" Column="21" />
+      <File FileName="PensamientoLOgico/NumerosPrimos.cs" Line="3" Column="27" />
+      <File FileName="PensamientoLOgico/EmularcajeroAutomatico.cs" Line="2" Column="28" />
+      <File FileName="PensamientoLOgico/Coincidencias.cs" Line="8" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PensamientoLOgico" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PensamientoLOgico PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
